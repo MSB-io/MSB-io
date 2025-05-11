@@ -1,7 +1,21 @@
+<link href="htt<div align="center" style="font-family: 'Poppins', sans-serif;">
+ 
+ 🧑🏻‍💻 I am a <span style="font-weight:500">curious developer on a journey to build impactful, beautiful things.</span>
+ 
+ 🚀 I love merging design, logic, and emotion into code that resonates with people.
+
+🌱 I'm currently learning <span style="font-weight:500">React</span>.
+
+⚡ I am also interested in <span style="font-weight:500">Web Development</span>, <span style="font-weight:500">Machine Learning</span>, <span style="font-weight:500">AI</span>, and <span style="font-weight:500">Augmented Reality</span>.
+
+</div>googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Poppins', sans-serif;">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MSB-io.MSB-io"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Amigo!+👋;+I'm+Manthan+Bhosale!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Amigo!+👋;+I'm+Manthan+Bhosale!;" /></h1>
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF">
@@ -62,7 +76,7 @@
 </p>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2 style="font-family: 'Poppins', sans-serif; font-weight: 600;"> My Contributions </h2>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -85,9 +99,11 @@
 </div>
 
 <div align="center">
-  <h2> Quotes </h2>
+  <h2 style="font-family: 'Poppins', sans-serif; font-weight: 600;"> Quotes </h2>
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 </div>
+</div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
