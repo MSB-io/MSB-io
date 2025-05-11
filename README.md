@@ -3,7 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MSB-io.MSB-io"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hola+Amigo!+👋;+I'm+Manthan+Bhosale!;" /></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello+Everyone!+👋;+I'm+Manthan+Bhosale!;" /></h1>
 
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF">
