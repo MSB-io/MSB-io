@@ -64,7 +64,8 @@
 <div align="center">
   <h2> My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/MSB-io/MSB-io/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="./github-contribution-grid-snake-dark.svg" />
+
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
