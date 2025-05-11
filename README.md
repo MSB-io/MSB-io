@@ -1,20 +1,3 @@
-<link href=<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtkdnFsYmozZXUwNTlxYzh5aGY0ZjY1OG80ODBvYXY2N3I4eDUyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" style="max-width:100%; height:auto;">
-</div>
-<br/>
-
-<div align="center" style="max-width:600px; margin:0 auto; padding:0 10px;">
- 
- <p>🧑🏻‍💻 I am a <span style="font-weight:600;">curious developer on a journey to build impactful, beautiful things.</span></p>
- 
- <p>🚀 I love merging design, logic, and emotion into code that resonates with people.</p>
-
-<p>🌱 I'm currently learning <span style="font-weight:600;">React</span>.</p>
-
-<p>⚡ I am also interested in <span style="font-weight:600;">Web Development</span>, <span style="font-weight:600;">Machine Learning</span>, <span style="font-weight:600;">AI</span>, and <span style="font-weight:600;">Augmented Reality</span>.</p>
-
-</div>oogleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 <div style="font-family: 'Poppins', sans-serif; text-align: center; width: 100%; max-width: 1200px; margin: 0 auto; padding: 0 15px;">
 
 <div align="center">
