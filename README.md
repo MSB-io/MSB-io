@@ -26,75 +26,31 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600;">Connect With Me</h2>
-
-<div align="center" style="margin:25px auto;">
-  <div style="background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,223,218,0.3) 25%, rgba(255,236,236,0.3) 50%, rgba(245,250,255,0.3) 75%, rgba(255,255,255,0) 100%); padding: 20px; border-radius: 16px; margin-bottom: 10px; overflow-x: auto;">
-    <div style="display: flex; justify-content: space-between; align-items: center; min-width: 850px; max-width: 1000px; margin: 0 auto;">
-      <a href="https://www.instagram.com/only.msb/" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #E4405F; font-weight: 500;">Instagram</p>
-        </div>
-      </a>
-      
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cryptomb2006@gmail.com" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: #D14836; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #D14836; font-weight: 500;">Gmail</p>
-        </div>
-      </a>
-      
-      <a href="https://www.linkedin.com/in/msb-io" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: #0077B5; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #0077B5; font-weight: 500;">LinkedIn</p>
-        </div>
-      </a>
-      
-      <a href="https://x.com/Msb_2006" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: #000000; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #000000; font-weight: 500;">Twitter</p>
-        </div>
-      </a>
-      
-      <a href="#" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: #1769ff; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968771.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #1769ff; font-weight: 500;">Behance</p>
-        </div>
-      </a>
-      
-      <a href="#" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: #2EC866; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968967.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #2EC866; font-weight: 500;">HackerRank</p>
-        </div>
-      </a>
-      
-      <a href="#" target="_blank" style="text-decoration: none; transition: all 0.3s ease; flex: 1; position: relative; padding: 0 5px;">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <div style="background: #F96854; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111548.png" width="45px" height="45px" style="transition: transform 0.3s ease; filter: brightness(0) invert(1);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-          </div>
-          <p style="font-family: 'Poppins', sans-serif; margin-top: 8px; font-size: 14px; color: #F96854; font-weight: 500;">Patreon</p>
-        </div>
-      </a>
-    </div>
-  </div>
+<div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin:20px auto; max-width:700px;">
+  <a href="https://www.instagram.com/only.msb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cryptomb2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/msb-io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="medium logo" />
+  </a>
+  <a href="https://x.com/Msb_2006" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="x logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="patreon logo"  />
+  </a>
 </div>
 
 <div align="center" style="margin:20px auto; max-width:900px;">
