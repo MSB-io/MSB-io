@@ -1,15 +1,3 @@
-<link href="htt<div align="center" style="font-family: 'Poppins', sans-serif;">
- 
- 🧑🏻‍💻 I am a <span style="font-weight:500">curious developer on a journey to build impactful, beautiful things.</span>
- 
- 🚀 I love merging design, logic, and emotion into code that resonates with people.
-
-🌱 I'm currently learning <span style="font-weight:500">React</span>.
-
-⚡ I am also interested in <span style="font-weight:500">Web Development</span>, <span style="font-weight:500">Machine Learning</span>, <span style="font-weight:500">AI</span>, and <span style="font-weight:500">Augmented Reality</span>.
-
-</div>googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 <div style="font-family: 'Poppins', sans-serif;">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MSB-io.MSB-io"/>
