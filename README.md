@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Hello+Everyone!+👋;+I'm+Manthan+Bhosale!;" /></h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/buKVr.gif" alt="Coding GIF">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF">
 </p>
 </div>
 <br/>
