@@ -14,13 +14,13 @@
 
 <div align="center">
  
- 🧑🏻‍💻 I am a **curious developer on a journey to build impactful, beautiful things.**
+ I am a **curious developer on a journey to build impactful, beautiful things.**
  
- 🚀 I love merging design, logic, and emotion into code that resonates with people.
+ I love merging design, logic, and emotion into code that resonates with people.
 
-🌱 I’m currently learning **React**.
+I’m currently learning **React**.
 
-⚡ I am also interested in **Web Development**, **Machine Learning**, **AI**, and **Augmented Reality**.
+I am also interested in **Web Development**, **Machine Learning**, **AI**, and **Augmented Reality**.
 
 </div>
 
